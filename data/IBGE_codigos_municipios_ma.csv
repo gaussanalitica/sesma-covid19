@@ -1,0 +1,218 @@
+cod_uf,nome_uf,cod_mesorregiao,nome_mesorregiao,cod_microrregiao,nome_microrregiao,numero_municipio,cod_municipio,nome_municipio
+21,Maranhão,2,Oeste Maranhense,9,Imperatriz,55,2100055,Açailândia
+21,Maranhão,4,Leste Maranhense,16,Coelho Neto,105,2100105,Afonso Cunha
+21,Maranhão,4,Leste Maranhense,13,Baixo Parnaíba Maranhense,154,2100154,Água Doce do Maranhão
+21,Maranhão,1,Norte Maranhense,1,Litoral Ocidental Maranhense,204,2100204,Alcântara
+21,Maranhão,4,Leste Maranhense,16,Coelho Neto,303,2100303,Aldeias Altas
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,402,2100402,Altamira do Maranhão
+21,Maranhão,4,Leste Maranhense,15,Codó,436,2100436,Alto Alegre do Maranhão
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,477,2100477,Alto Alegre do Pindaré
+21,Maranhão,5,Sul Maranhense,20,Gerais de Balsas,501,2100501,Alto Parnaíba
+21,Maranhão,2,Oeste Maranhense,7,Gurupi,550,2100550,Amapá do Maranhão
+21,Maranhão,2,Oeste Maranhense,9,Imperatriz,600,2100600,Amarante do Maranhão
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,709,2100709,Anajatuba
+21,Maranhão,4,Leste Maranhense,14,Chapadinha,808,2100808,Anapurus
+21,Maranhão,1,Norte Maranhense,1,Litoral Ocidental Maranhense,832,2100832,Apicum-Açu
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,873,2100873,Araguanã
+21,Maranhão,4,Leste Maranhense,13,Baixo Parnaíba Maranhense,907,2100907,Araioses
+21,Maranhão,3,Centro Maranhense,11,Alto Mearim e Grajaú,956,2100956,Arame
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,1004,2101004,Arari
+21,Maranhão,1,Norte Maranhense,3,Rosário,1103,2101103,Axixá
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,1202,2101202,Bacabal
+21,Maranhão,1,Norte Maranhense,3,Rosário,1251,2101251,Bacabeira
+21,Maranhão,1,Norte Maranhense,1,Litoral Ocidental Maranhense,1301,2101301,Bacuri
+21,Maranhão,1,Norte Maranhense,1,Litoral Ocidental Maranhense,1350,2101350,Bacurituba
+21,Maranhão,5,Sul Maranhense,20,Gerais de Balsas,1400,2101400,Balsas
+21,Maranhão,4,Leste Maranhense,18,Chapadas do Alto Itapecuru,1509,2101509,Barão de Grajaú
+21,Maranhão,3,Centro Maranhense,11,Alto Mearim e Grajaú,1608,2101608,Barra do Corda
+21,Maranhão,1,Norte Maranhense,4,Lençóis Maranhenses,1707,2101707,Barreirinhas
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,1772,2101772,Bela Vista do Maranhão
+21,Maranhão,4,Leste Maranhense,14,Chapadinha,1731,2101731,Belágua
+21,Maranhão,5,Sul Maranhense,21,Chapadas das Mangabeiras,1806,2101806,Benedito Leite
+21,Maranhão,1,Norte Maranhense,1,Litoral Ocidental Maranhense,1905,2101905,Bequimão
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,1939,2101939,Bernardo do Mearim
+21,Maranhão,2,Oeste Maranhense,7,Gurupi,1970,2101970,Boa Vista do Gurupi
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,2002,2102002,Bom Jardim
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,2036,2102036,Bom Jesus das Selvas
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,2077,2102077,Bom Lugar
+21,Maranhão,4,Leste Maranhense,14,Chapadinha,2101,2102101,Brejo
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,2150,2102150,Brejo de Areia
+21,Maranhão,4,Leste Maranhense,14,Chapadinha,2200,2102200,Buriti
+21,Maranhão,4,Leste Maranhense,17,Caxias,2309,2102309,Buriti Bravo
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,2325,2102325,Buriticupu
+21,Maranhão,2,Oeste Maranhense,9,Imperatriz,2358,2102358,Buritirana
+21,Maranhão,1,Norte Maranhense,3,Rosário,2374,2102374,Cachoeira Grande
+21,Maranhão,1,Norte Maranhense,1,Litoral Ocidental Maranhense,2408,2102408,Cajapió
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,2507,2102507,Cajari
+21,Maranhão,5,Sul Maranhense,19,Porto Franco,2556,2102556,Campestre do Maranhão
+21,Maranhão,2,Oeste Maranhense,7,Gurupi,2606,2102606,Cândido Mendes
+21,Maranhão,1,Norte Maranhense,6,Itapecuru Mirim,2705,2102705,Cantanhede
+21,Maranhão,4,Leste Maranhense,15,Codó,2754,2102754,Capinzal do Norte
+21,Maranhão,5,Sul Maranhense,19,Porto Franco,2804,2102804,Carolina
+21,Maranhão,2,Oeste Maranhense,7,Gurupi,2903,2102903,Carutapera
+21,Maranhão,4,Leste Maranhense,17,Caxias,3000,2103000,Caxias
+21,Maranhão,1,Norte Maranhense,1,Litoral Ocidental Maranhense,3109,2103109,Cedral
+21,Maranhão,1,Norte Maranhense,1,Litoral Ocidental Maranhense,3125,2103125,Central do Maranhão
+21,Maranhão,2,Oeste Maranhense,7,Gurupi,3158,2103158,Centro do Guilherme
+21,Maranhão,2,Oeste Maranhense,7,Gurupi,3174,2103174,Centro Novo do Maranhão
+21,Maranhão,4,Leste Maranhense,14,Chapadinha,3208,2103208,Chapadinha
+21,Maranhão,2,Oeste Maranhense,9,Imperatriz,3257,2103257,Cidelândia
+21,Maranhão,4,Leste Maranhense,15,Codó,3307,2103307,Codó
+21,Maranhão,4,Leste Maranhense,16,Coelho Neto,3406,2103406,Coelho Neto
+21,Maranhão,4,Leste Maranhense,18,Chapadas do Alto Itapecuru,3505,2103505,Colinas
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,3554,2103554,Conceição do Lago-Açu
+21,Maranhão,4,Leste Maranhense,15,Codó,3604,2103604,Coroatá
+21,Maranhão,1,Norte Maranhense,1,Litoral Ocidental Maranhense,3703,2103703,Cururupu
+21,Maranhão,2,Oeste Maranhense,9,Imperatriz,3752,2103752,Davinópolis
+21,Maranhão,3,Centro Maranhense,12,Presidente Dutra,3802,2103802,Dom Pedro
+21,Maranhão,4,Leste Maranhense,16,Coelho Neto,3901,2103901,Duque Bacelar
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,4008,2104008,Esperantinópolis
+21,Maranhão,5,Sul Maranhense,19,Porto Franco,4057,2104057,Estreito
+21,Maranhão,5,Sul Maranhense,20,Gerais de Balsas,4073,2104073,Feira Nova do Maranhão
+21,Maranhão,3,Centro Maranhense,11,Alto Mearim e Grajaú,4081,2104081,Fernando Falcão
+21,Maranhão,3,Centro Maranhense,11,Alto Mearim e Grajaú,4099,2104099,Formosa da Serra Negra
+21,Maranhão,5,Sul Maranhense,21,Chapadas das Mangabeiras,4107,2104107,Fortaleza dos Nogueiras
+21,Maranhão,3,Centro Maranhense,12,Presidente Dutra,4206,2104206,Fortuna
+21,Maranhão,2,Oeste Maranhense,7,Gurupi,4305,2104305,Godofredo Viana
+21,Maranhão,3,Centro Maranhense,12,Presidente Dutra,4404,2104404,Gonçalves Dias
+21,Maranhão,3,Centro Maranhense,12,Presidente Dutra,4503,2104503,Governador Archer
+21,Maranhão,2,Oeste Maranhense,9,Imperatriz,4552,2104552,Governador Edison Lobão
+21,Maranhão,3,Centro Maranhense,12,Presidente Dutra,4602,2104602,Governador Eugênio Barros
+21,Maranhão,3,Centro Maranhense,12,Presidente Dutra,4628,2104628,Governador Luiz Rocha
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,4651,2104651,Governador Newton Bello
+21,Maranhão,2,Oeste Maranhense,7,Gurupi,4677,2104677,Governador Nunes Freire
+21,Maranhão,3,Centro Maranhense,12,Presidente Dutra,4701,2104701,Graça Aranha
+21,Maranhão,3,Centro Maranhense,11,Alto Mearim e Grajaú,4800,2104800,Grajaú
+21,Maranhão,1,Norte Maranhense,1,Litoral Ocidental Maranhense,4909,2104909,Guimarães
+21,Maranhão,1,Norte Maranhense,4,Lençóis Maranhenses,5005,2105005,Humberto de Campos
+21,Maranhão,1,Norte Maranhense,3,Rosário,5104,2105104,Icatu
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,5153,2105153,Igarapé do Meio
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,5203,2105203,Igarapé Grande
+21,Maranhão,2,Oeste Maranhense,9,Imperatriz,5302,2105302,Imperatriz
+21,Maranhão,3,Centro Maranhense,11,Alto Mearim e Grajaú,5351,2105351,Itaipava do Grajaú
+21,Maranhão,1,Norte Maranhense,6,Itapecuru Mirim,5401,2105401,Itapecuru Mirim
+21,Maranhão,2,Oeste Maranhense,9,Imperatriz,5427,2105427,Itinga do Maranhão
+21,Maranhão,4,Leste Maranhense,18,Chapadas do Alto Itapecuru,5450,2105450,Jatobá
+21,Maranhão,3,Centro Maranhense,11,Alto Mearim e Grajaú,5476,2105476,Jenipapo dos Vieiras
+21,Maranhão,2,Oeste Maranhense,9,Imperatriz,5500,2105500,João Lisboa
+21,Maranhão,3,Centro Maranhense,11,Alto Mearim e Grajaú,5609,2105609,Joselândia
+21,Maranhão,2,Oeste Maranhense,7,Gurupi,5658,2105658,Junco do Maranhão
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,5708,2105708,Lago da Pedra
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,5807,2105807,Lago do Junco
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,5948,2105948,Lago dos Rodrigues
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,5906,2105906,Lago Verde
+21,Maranhão,4,Leste Maranhense,18,Chapadas do Alto Itapecuru,5922,2105922,Lagoa do Mato
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,5963,2105963,Lagoa Grande do Maranhão
+21,Maranhão,2,Oeste Maranhense,9,Imperatriz,5989,2105989,Lajeado Novo
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,6003,2106003,Lima Campos
+21,Maranhão,5,Sul Maranhense,21,Chapadas das Mangabeiras,6102,2106102,Loreto
+21,Maranhão,2,Oeste Maranhense,7,Gurupi,6201,2106201,Luís Domingues
+21,Maranhão,4,Leste Maranhense,13,Baixo Parnaíba Maranhense,6300,2106300,Magalhães de Almeida
+21,Maranhão,2,Oeste Maranhense,7,Gurupi,6326,2106326,Maracaçumé
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,6359,2106359,Marajá do Sena
+21,Maranhão,2,Oeste Maranhense,7,Gurupi,6375,2106375,Maranhãozinho
+21,Maranhão,4,Leste Maranhense,14,Chapadinha,6409,2106409,Mata Roma
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,6508,2106508,Matinha
+21,Maranhão,4,Leste Maranhense,17,Caxias,6607,2106607,Matões
+21,Maranhão,1,Norte Maranhense,6,Itapecuru Mirim,6631,2106631,Matões do Norte
+21,Maranhão,4,Leste Maranhense,14,Chapadinha,6672,2106672,Milagres do Maranhão
+21,Maranhão,4,Leste Maranhense,18,Chapadas do Alto Itapecuru,6706,2106706,Mirador
+21,Maranhão,1,Norte Maranhense,6,Itapecuru Mirim,6755,2106755,Miranda do Norte
+21,Maranhão,1,Norte Maranhense,1,Litoral Ocidental Maranhense,6805,2106805,Mirinzal
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,6904,2106904,Monção
+21,Maranhão,2,Oeste Maranhense,9,Imperatriz,7001,2107001,Montes Altos
+21,Maranhão,1,Norte Maranhense,3,Rosário,7100,2107100,Morros
+21,Maranhão,1,Norte Maranhense,6,Itapecuru Mirim,7209,2107209,Nina Rodrigues
+21,Maranhão,5,Sul Maranhense,21,Chapadas das Mangabeiras,7258,2107258,Nova Colinas
+21,Maranhão,4,Leste Maranhense,18,Chapadas do Alto Itapecuru,7308,2107308,Nova Iorque
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,7357,2107357,Nova Olinda do Maranhão
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,7407,2107407,Olho d'Água das Cunhãs
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,7456,2107456,Olinda Nova do Maranhão
+21,Maranhão,1,Norte Maranhense,2,Aglomeração Urbana de São Luís,7506,2107506,Paço do Lumiar
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,7605,2107605,Palmeirândia
+21,Maranhão,4,Leste Maranhense,18,Chapadas do Alto Itapecuru,7704,2107704,Paraibano
+21,Maranhão,4,Leste Maranhense,17,Caxias,7803,2107803,Parnarama
+21,Maranhão,4,Leste Maranhense,18,Chapadas do Alto Itapecuru,7902,2107902,Passagem Franca
+21,Maranhão,4,Leste Maranhense,18,Chapadas do Alto Itapecuru,8009,2108009,Pastos Bons
+21,Maranhão,1,Norte Maranhense,4,Lençóis Maranhenses,8058,2108058,Paulino Neves
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,8108,2108108,Paulo Ramos
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,8207,2108207,Pedreiras
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,8256,2108256,Pedro do Rosário
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,8306,2108306,Penalva
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,8405,2108405,Peri Mirim
+21,Maranhão,4,Leste Maranhense,15,Codó,8454,2108454,Peritoró
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,8504,2108504,Pindaré-Mirim
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,8603,2108603,Pinheiro
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,8702,2108702,Pio XII
+21,Maranhão,1,Norte Maranhense,6,Itapecuru Mirim,8801,2108801,Pirapemas
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,8900,2108900,Poção de Pedras
+21,Maranhão,5,Sul Maranhense,19,Porto Franco,9007,2109007,Porto Franco
+21,Maranhão,1,Norte Maranhense,1,Litoral Ocidental Maranhense,9056,2109056,Porto Rico do Maranhão
+21,Maranhão,3,Centro Maranhense,12,Presidente Dutra,9106,2109106,Presidente Dutra
+21,Maranhão,1,Norte Maranhense,3,Rosário,9205,2109205,Presidente Juscelino
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,9239,2109239,Presidente Médici
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,9270,2109270,Presidente Sarney
+21,Maranhão,1,Norte Maranhense,6,Itapecuru Mirim,9304,2109304,Presidente Vargas
+21,Maranhão,1,Norte Maranhense,4,Lençóis Maranhenses,9403,2109403,Primeira Cruz
+21,Maranhão,1,Norte Maranhense,2,Aglomeração Urbana de São Luís,9452,2109452,Raposa
+21,Maranhão,5,Sul Maranhense,20,Gerais de Balsas,9502,2109502,Riachão
+21,Maranhão,2,Oeste Maranhense,9,Imperatriz,9551,2109551,Ribamar Fiquene
+21,Maranhão,1,Norte Maranhense,3,Rosário,9601,2109601,Rosário
+21,Maranhão,5,Sul Maranhense,21,Chapadas das Mangabeiras,9700,2109700,Sambaíba
+21,Maranhão,3,Centro Maranhense,11,Alto Mearim e Grajaú,9759,2109759,Santa Filomena do Maranhão
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,9809,2109809,Santa Helena
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,9908,2109908,Santa Inês
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,10005,2110005,Santa Luzia
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,10039,2110039,Santa Luzia do Paruá
+21,Maranhão,4,Leste Maranhense,13,Baixo Parnaíba Maranhense,10104,2110104,Santa Quitéria do Maranhão
+21,Maranhão,1,Norte Maranhense,3,Rosário,10203,2110203,Santa Rita
+21,Maranhão,4,Leste Maranhense,13,Baixo Parnaíba Maranhense,10237,2110237,Santana do Maranhão
+21,Maranhão,1,Norte Maranhense,4,Lençóis Maranhenses,10278,2110278,Santo Amaro do Maranhão
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,10302,2110302,Santo Antônio dos Lopes
+21,Maranhão,4,Leste Maranhense,14,Chapadinha,10401,2110401,São Benedito do Rio Preto
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,10500,2110500,São Bento
+21,Maranhão,4,Leste Maranhense,13,Baixo Parnaíba Maranhense,10609,2110609,São Bernardo
+21,Maranhão,5,Sul Maranhense,21,Chapadas das Mangabeiras,10658,2110658,São Domingos do Azeitão
+21,Maranhão,3,Centro Maranhense,12,Presidente Dutra,10708,2110708,São Domingos do Maranhão
+21,Maranhão,5,Sul Maranhense,21,Chapadas das Mangabeiras,10807,2110807,São Félix de Balsas
+21,Maranhão,2,Oeste Maranhense,9,Imperatriz,10856,2110856,São Francisco do Brejão
+21,Maranhão,4,Leste Maranhense,18,Chapadas do Alto Itapecuru,10906,2110906,São Francisco do Maranhão
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,11003,2111003,São João Batista
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,11029,2111029,São João do Carú
+21,Maranhão,5,Sul Maranhense,19,Porto Franco,11052,2111052,São João do Paraíso
+21,Maranhão,4,Leste Maranhense,17,Caxias,11078,2111078,São João do Soter
+21,Maranhão,4,Leste Maranhense,18,Chapadas do Alto Itapecuru,11102,2111102,São João dos Patos
+21,Maranhão,1,Norte Maranhense,2,Aglomeração Urbana de São Luís,11201,2111201,São José de Ribamar
+21,Maranhão,3,Centro Maranhense,12,Presidente Dutra,11250,2111250,São José dos Basílios
+21,Maranhão,1,Norte Maranhense,2,Aglomeração Urbana de São Luís,11300,2111300,São Luís
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,11409,2111409,São Luís Gonzaga do Maranhão
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,11508,2111508,São Mateus do Maranhão
+21,Maranhão,2,Oeste Maranhense,9,Imperatriz,11532,2111532,São Pedro da Água Branca
+21,Maranhão,5,Sul Maranhense,19,Porto Franco,11573,2111573,São Pedro dos Crentes
+21,Maranhão,5,Sul Maranhense,21,Chapadas das Mangabeiras,11607,2111607,São Raimundo das Mangabeiras
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,11631,2111631,São Raimundo do Doca Bezerra
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,11672,2111672,São Roberto
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,11706,2111706,São Vicente Ferrer
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,11722,2111722,Satubinha
+21,Maranhão,3,Centro Maranhense,12,Presidente Dutra,11748,2111748,Senador Alexandre Costa
+21,Maranhão,2,Oeste Maranhense,9,Imperatriz,11763,2111763,Senador La Rocque
+21,Maranhão,1,Norte Maranhense,1,Litoral Ocidental Maranhense,11789,2111789,Serrano do Maranhão
+21,Maranhão,3,Centro Maranhense,11,Alto Mearim e Grajaú,11805,2111805,Sítio Novo
+21,Maranhão,4,Leste Maranhense,18,Chapadas do Alto Itapecuru,11904,2111904,Sucupira do Norte
+21,Maranhão,4,Leste Maranhense,18,Chapadas do Alto Itapecuru,11953,2111953,Sucupira do Riachão
+21,Maranhão,5,Sul Maranhense,20,Gerais de Balsas,12001,2112001,Tasso Fragoso
+21,Maranhão,4,Leste Maranhense,15,Codó,12100,2112100,Timbiras
+21,Maranhão,4,Leste Maranhense,17,Caxias,12209,2112209,Timon
+21,Maranhão,3,Centro Maranhense,10,Médio Mearim,12233,2112233,Trizidela do Vale
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,12274,2112274,Tufilândia
+21,Maranhão,3,Centro Maranhense,11,Alto Mearim e Grajaú,12308,2112308,Tuntum
+21,Maranhão,2,Oeste Maranhense,7,Gurupi,12407,2112407,Turiaçu
+21,Maranhão,2,Oeste Maranhense,7,Gurupi,12456,2112456,Turilândia
+21,Maranhão,1,Norte Maranhense,4,Lençóis Maranhenses,12506,2112506,Tutóia
+21,Maranhão,4,Leste Maranhense,14,Chapadinha,12605,2112605,Urbano Santos
+21,Maranhão,1,Norte Maranhense,6,Itapecuru Mirim,12704,2112704,Vargem Grande
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,12803,2112803,Viana
+21,Maranhão,2,Oeste Maranhense,9,Imperatriz,12852,2112852,Vila Nova dos Martírios
+21,Maranhão,1,Norte Maranhense,5,Baixada Maranhense,12902,2112902,Vitória do Mearim
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,13009,2113009,Vitorino Freire
+21,Maranhão,2,Oeste Maranhense,8,Pindaré,14007,2114007,Zé Doca
